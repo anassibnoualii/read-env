@@ -1,0 +1,1 @@
+API_KEY = "https://fidm.gigya.com/jwt/3_3OG3wvWVphpkau_yodupWUAGceXnfvlELF5eO9yTwgaxG-q5H42v1B9Ai4cqQrSC/web-app/"
